@@ -100,8 +100,13 @@ nav {
     height: 100vh;
 }
 
-#check:checked ~ .nav-menu li {
+#check:checked ~ .nav-menu li 
 
     display: block;
 }
 
+.container {
+
+
+    max wd
+}
